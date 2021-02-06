@@ -18,4 +18,5 @@
 
 # Generated Files while compiling
 *.class
+*.fxml
 
